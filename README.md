@@ -20,7 +20,7 @@ import time
 
 **Idea:**
 
-I wanted to scrape my recommendations for a future project wherein I would check how my recommendations have changed over time (maybe the demographic I watch has changed or the overall categories I watch have changed, and thought that would be a fun analysis to do).
+I wanted to scrape my recommendations for a future project wherein I would check how my recommendations have changed over time (maybe the content creators I watch have changed or the overall categories I watch have changed, and thought that would be a fun analysis to do).
 
 
 **Process:** 
