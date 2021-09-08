@@ -44,6 +44,10 @@ I wanted to scrape my recommendations for a future project wherein I would check
 - Finally, this dataframe is converted to a csv file and stored on the system. 
 
 
+**Output as of 12th July, 2021:**
+![image](https://user-images.githubusercontent.com/84278440/132457546-e91c2d5d-a1a7-4c5e-b779-f606717c1c9c.png)
+
+
 **After project thoughts:**
 - The data can be scraped and stored on different dates using the dates as the name of each file.
 - The data procured, in itself, could be helpful as it can help me find a video let's say of which I forgot the title, but remember a word or two or say I want to know which channel I watched it on, a quick search in the excel file would give me the result. 
